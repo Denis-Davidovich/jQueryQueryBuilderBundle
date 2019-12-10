@@ -1,8 +1,7 @@
 {
-	"name" : "josedacosta/jquery-query-builder-bundle",
-	"homepage" : "http://github.com/josedacosta/jQueryQueryBuilderBundle",
-	"description" : "from jQuery QueryBuilder to Doctrine QueryBuilder",
-	"version" : "1.0",
+	"name" : "denis-davidovich/jquery-query-builder-bundle",
+	"homepage" : "http://github.com/Denis-Davidovich/jQueryQueryBuilderBundle",
+	"description" : "fork of https://github.com/josedacosta/jQueryQueryBuilderBundle, jQuery QueryBuilder to Doctrine QueryBuilder",
 	"type" : "library",
 	"license" : "MIT",
 	"authors" : [{
